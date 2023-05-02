@@ -1,0 +1,18 @@
+/* *{margin: 0; padding: 0} */
+body{font-family: cursive;}
+.main{width: inherit; margin: inherit auto}
+.header{}
+.header h1{background-color:white;  text-align: center;font-family: cursive;font-size: 70px; font-family:  Impact;}
+.header img{width:auto; height: 50px;}
+.mainmenu{background: red;overflow:hidden;margin-top: 20px; margin-bottom: 30px; }
+.mainmenu ul{list-style: none; }
+.mainmenu ul li{float: left; }
+.mainmenu ul li a{color: aliceblue;padding: 10px;display: block;text-decoration: none;}
+.mainmenu ul li a:hover{background: black;}
+.maincontent{overflow: hidden;}
+.maincontent h1{margin-bottom: 20px;}
+.content{width: 70%; float: left; margin-right: 160px;}
+.sidebar{width: 20%; float: right;}
+.sidebar ul{list-style:circle;}
+.sidebar ul li{margin-bottom: 10px;}
+.sidebar ul li a{border-bottom: 10px;text-decoration: none;}
